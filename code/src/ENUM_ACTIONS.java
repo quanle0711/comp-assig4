@@ -1,0 +1,10 @@
+public enum ENUM_ACTIONS {
+    MOVE,
+    TURNLEFT,
+    TURNRIGHT,
+    WAIT,
+    TAKEFUEL,
+    TURNAROUND,
+    SHIELDON,
+    SHIELDOFF,
+}
